@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    margin: 0 auto;
+    max-width: 1440px;
+}
+
+.App-header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 60px;
+    background: #FFFFFF;
+    box-shadow: 0 1px 0 #E1E7ED;
+    padding-left: 26px;
+    padding-right: 15px;
+}
+
+.App-logo {
+    display: flex;
+    height: 30px;
+    width: 30px;
+}
+
+.NavBar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.NavBar-linc {
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 19px;
+    color: #3D4E61;
+    padding-left: 40px;
+}
+
+.linc__ellipse {
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+}
