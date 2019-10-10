@@ -8,7 +8,7 @@
     max-width: 1440px;
 }
 
-.App-header {
+.Header {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -20,13 +20,13 @@
     padding-right: 15px;
 }
 
-.App-logo {
+.Header__logo {
     display: flex;
     height: 30px;
     width: 30px;
 }
 
-.NavBar {
+.Header__nav-bar {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -34,15 +34,20 @@
     font-family: 'Roboto', sans-serif;
 }
 
-.NavBar-linc {
+.Header__link {
     text-decoration: none;
     font-size: 16px;
     line-height: 19px;
     color: #3D4E61;
     padding-left: 40px;
+    background-color: #fff;
 }
 
-.linc__ellipse {
+:hover .Header__link {
+    background-color: lightgrey;
+}
+
+.Header__link_ellipse {
     border-radius: 50%;
     width: 30px;
     height: 30px;

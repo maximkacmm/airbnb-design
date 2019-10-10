@@ -1,4 +1,5 @@
 import React from 'react';
+import '../style.css';
 import logo from "../logo.svg";
 import ellipse from "../ellipse.jpg";
 
@@ -6,13 +7,17 @@ import ellipse from "../ellipse.jpg";
 function Header() {
     return (
         <div className="App">
-            <header className="App-header wrapper">
-                <img src={logo} className="App-logo" alt="logo"/>
-                <div className="NavBar">
-                    <a href="#" className="NavBar-linc">Become a host</a>
-                    <a href="#" className="NavBar-linc">Trips</a>
-                    <a href="#" className="NavBar-linc">Trips</a>
-                    <a href="#" className="NavBar-linc linc__ellipse"><img src={ellipse} className="App-logo" alt="users logo"/></a>
+            <header className="Header wrapper">
+                <a href="#">
+                    <img src={logo} className="Header__logo" alt="logo"/>
+                </a>
+                <div className="Header__nav-bar">
+                    <a href="#" className="Header__link">Become a host</a>
+                    <a href="#" className="Header__link">Trips</a>
+                    <a href="#" className="Header__link">Trips</a>
+                    <a href="#" className="Header__link Header__link_ellipse">
+                        <img src={ellipse} className="Header__logo" alt="users logo"/>
+                    </a>
                 </div>
             </header>
         </div>
