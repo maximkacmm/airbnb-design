@@ -7,6 +7,7 @@ import ellipse from "../ellipse.jpg";
 function Header() {
     return (
         <div className="App">
+            <div className="Line-header">
             <header className="Header wrapper">
                 <a href="#">
                     <img src={logo} className="Header__logo" alt="logo"/>
@@ -20,6 +21,7 @@ function Header() {
                     </a>
                 </div>
             </header>
+        </div>
         </div>
     );
 }
