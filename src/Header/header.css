@@ -1,0 +1,53 @@
+.Header__line {
+    box-shadow: 0 1px 0 #E1E7ED;
+}
+
+.Header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 60px;
+    background: #FFFFFF;
+    padding-left: 30px;
+    padding-right: 15px;
+}
+
+.Header__logo {
+    display: flex;
+    height: 30px;
+    width: 30px;
+}
+
+.Header__nav-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.Header__link {
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 19px;
+    color: #3D4E61;
+    padding-left: 40px;
+    background-color: #fff;
+}
+
+.Header__link:hover {
+    color: lightgrey;
+    transition-duration: 0.3s;
+}
+
+.Header__link_ellipse {
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+}
+
+.Header__logo:hover {
+    transition-duration: 0.3s;
+    opacity: 0.7;
+}
