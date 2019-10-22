@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19f19d8f-9745-4cb8-989f-bc4de6ff801b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/footer/footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/footer/footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/main-heading/main-heading.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/searchBox/searchBox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/searchBox/searchBox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/section/card/card.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/section/card/card.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/section/card/quietImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/section/section.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/section/section.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Header/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Header/header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ellipse.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Header/ellipse.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Header/logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="19f19d8f-9745-4cb8-989f-bc4de6ff801b" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -34,7 +13,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/main-heading/main-heading.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
@@ -46,32 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/footer/footer.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/footer/footer.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="16" column="52" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="357">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -129,7 +87,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -146,12 +103,20 @@
               <item name="airbnb-design" type="b2602c69:ProjectViewProjectNode" />
               <item name="airbnb-design" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="footer" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="airbnb-design" type="b2602c69:ProjectViewProjectNode" />
+              <item name="airbnb-design" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="main-heading" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -186,6 +151,16 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="main-heading.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/main/main-heading/main-heading.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.main-heading.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -209,6 +184,7 @@
       <workItem from="1571287999056" duration="10034000" />
       <workItem from="1571375145040" duration="16863000" />
       <workItem from="1571722133094" duration="6883000" />
+      <workItem from="1571732771289" duration="289000" />
     </task>
     <task id="LOCAL-00001" summary="cghhgk">
       <created>1570013861214</created>
@@ -294,17 +270,24 @@
       <option name="project" value="LOCAL" />
       <updated>1570778582569</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="&#10;full page first check">
+      <created>1571732945949</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1571732945949</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89039000" />
+    <option name="totallyTimeSpent" value="89328000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18601191" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18601191" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -315,8 +298,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49822065" weight="0.32026145" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.4992248" visible="true" weight="0.30392158" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49822065" visible="true" weight="0.32026145" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4992248" weight="0.30392158" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5017794" side_tool="true" weight="0.32843137" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -398,7 +381,8 @@
     <MESSAGE value="npm run build" />
     <MESSAGE value="npm run build&#10;and demo" />
     <MESSAGE value="amendment of all comments except:&#10;removal of global variables" />
-    <option name="LAST_COMMIT_MESSAGE" value="amendment of all comments except:&#10;removal of global variables" />
+    <MESSAGE value="&#10;full page first check" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;full page first check" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/App.css" />
@@ -544,26 +528,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/main-heading/main-heading.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/footer/footer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="255">
           <caret line="16" column="52" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
@@ -574,7 +541,24 @@
     <entry file="file://$PROJECT_DIR$/src/footer/footer.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/main-heading/main-heading.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
