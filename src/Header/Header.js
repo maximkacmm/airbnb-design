@@ -1,8 +1,8 @@
 import React from 'react';
 import '../style.css';
-import './header.css'
-import logo from "../logo.svg";
-import ellipse from "../ellipse.jpg";
+import './header.css';
+import logo from "./logo.svg";
+import ellipse from "./ellipse.jpg";
 
 
 function Header() {

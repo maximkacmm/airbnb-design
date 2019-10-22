@@ -1,0 +1,16 @@
+.section {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.main__SubHeader {
+    width: 100%;
+    font-family: var(--roboto);
+    font-size: 28px;
+    line-height: 33px;
+    color: var(--colorTextHeader);
+    padding-top: 60px;
+    padding-bottom: 28px;
+}

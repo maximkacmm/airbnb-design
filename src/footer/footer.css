@@ -1,0 +1,40 @@
+.wrapper-inner-footer {
+    margin: 0 auto;
+    width: 900px;
+}
+
+.footer {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.footer__section {
+    width: 32.5%;
+}
+
+.footer__list {
+    list-style: none;
+    padding-bottom: 10px;
+}
+
+.footer__list--linc {
+    text-decoration: none;
+    font-family: var(--roboto);
+    font-size: 16px;
+    line-height: 19px;
+    color: var(--colorTextHeader);
+    padding-bottom: 10px;
+}
+
+.footer__list--linc:hover {
+    opacity: 0.9;
+}
+
+.span {
+    font-weight: bold;
+    padding-bottom: 20px;
+}

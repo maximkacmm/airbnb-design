@@ -1,3 +1,15 @@
+:root {
+    --roboto: 'Roboto', sans-serif;
+    --white: #fff;
+    --lightgrey: lightgrey;
+    --colorTextHeader: #3D4E61;
+    --colorTextCard: #118488;
+    --colorTextCardPrice: #687C94;
+    --colorTextCardHover: #FD5C63;
+    --box-shadow: 1px solid #E1E7ED;
+    --box-shadow-search: 0px 3px 8px rgba(61, 78, 97, 0.2);
+}
+
 *{
     margin: 0;
     padding: 0;
@@ -6,4 +18,9 @@
 .wrapper {
     margin: 0 auto;
     max-width: 1440px;
+}
+
+.wrapper-inner {
+    margin: 0 auto;
+    max-width: 900px;
 }

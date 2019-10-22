@@ -1,5 +1,5 @@
 .Header__line {
-    box-shadow: 0 1px 0 #E1E7ED;
+    border-bottom: var(--box-shadow);
 }
 
 .Header {
@@ -8,7 +8,7 @@
     align-items: center;
     justify-content: space-between;
     min-height: 60px;
-    background: #FFFFFF;
+    background: var(--white);
     padding-left: 30px;
     padding-right: 15px;
 }
@@ -24,20 +24,20 @@
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
-    font-family: 'Roboto', sans-serif;
+    font-family: var(--roboto);
 }
 
 .Header__link {
     text-decoration: none;
     font-size: 16px;
     line-height: 19px;
-    color: #3D4E61;
+    color: var(--colorTextHeader);
     padding-left: 40px;
-    background-color: #fff;
+    background-color: var(--white)
 }
 
 .Header__link:hover {
-    color: lightgrey;
+    color: var(--lightgrey);
     transition-duration: 0.3s;
 }
 

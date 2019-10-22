@@ -1,0 +1,10 @@
+.main-heading {
+    display: flex;
+    justify-content: center;
+    font-family: var(--roboto);
+    color: var(--colorTextHeader);
+    font-size: 36px;
+    line-height: 49px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
