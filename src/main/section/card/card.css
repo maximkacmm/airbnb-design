@@ -4,6 +4,7 @@
 }
 
 .card :hover {
+    transition-duration: 0.3s;
     opacity: 0.9;
 }
 
@@ -36,6 +37,7 @@
 }
 
 .card__list:hover {
+    transition-duration: 0.3s;
     color: var(--colorTextCardHover);
     cursor: pointer;
 }

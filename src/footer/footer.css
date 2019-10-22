@@ -31,7 +31,8 @@
 }
 
 .footer__list--linc:hover {
-    opacity: 0.9;
+    transition-duration: 0.3s;
+    opacity: 0.8;
 }
 
 .span {
