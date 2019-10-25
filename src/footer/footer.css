@@ -16,12 +16,12 @@
     width: 32.5%;
 }
 
-.footer__list {
+.footer-item {
     list-style: none;
     padding-bottom: 10px;
 }
 
-.footer__list--linc {
+.footer-item-linc {
     text-decoration: none;
     font-family: var(--roboto);
     font-size: 16px;
@@ -30,12 +30,12 @@
     padding-bottom: 10px;
 }
 
-.footer__list--linc:hover {
+.footer-item-linc:hover {
     transition-duration: 0.3s;
     opacity: 0.8;
 }
 
-.span {
+.footer-span {
     font-weight: bold;
     padding-bottom: 20px;
 }

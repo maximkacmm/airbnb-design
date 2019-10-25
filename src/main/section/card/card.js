@@ -1,18 +1,17 @@
 import React from 'react';
-import quietImage from './quietImage.png';
 import './card.css';
 
-function Card () {
+function Card (props) {
     return (
-            <div className="card wrapper-card">
-                <div className="picture__card">
-                    <img src={quietImage} className="picture__card" alt="apartment"/>
+            <div className="card">
+                <div className="card__picture">
+                    <img src={props.cardPicture} className="card__picture" alt="apartment"/>
                 </div>
-                <div className="text__card">
+                <div className="card__text">
                     <ul>
-                        <li className="card__list card__list--description">Entire apartment</li>
-                        <li className="card__list card__list--title">Quiet apartment</li>
-                        <li className="card__list card__list--price">80$ per night</li>
+                        <li className="card__text-item item-description">{props.description}</li>
+                        <li className="card__text-item item-title">{props.title}</li>
+                        <li className="card__text-item item-price">{props.price}</li>
                     </ul>
                 </div>
             </div>
