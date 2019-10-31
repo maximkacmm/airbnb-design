@@ -1,9 +1,9 @@
 import React from 'react';
-import '../style.css';
+import '../../style.css';
 import "./main.css";
-import MainHeading from "./main-heading/main-heading";
-import SearchBox from "./searchBox/searchBox";
-import Section from "./section/section";
+import MainHeading from "../mainHeading";
+import SearchBox from "../../components/searchBox";
+import Section from "../../components/section";
 
 
 
@@ -12,7 +12,6 @@ function Main() {
         <div className="main">
             <MainHeading/>
             <SearchBox/>
-            <Section/>
             <Section/>
         </div>
     );

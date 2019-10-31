@@ -1,5 +1,6 @@
 import React from 'react';
-import './main-heading.css';
+import '../../style.css';
+import './mainHeading.css';
 
 function MainHeading () {
     return (
