@@ -2,36 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19f19d8f-9745-4cb8-989f-bc4de6ff801b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/card-list/card-list.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/card-list/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/card/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/header/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/searchBox/search.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/section/hike.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/section/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/section/retro.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/section/thai .png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Header/Header.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Header/ellipse.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/ellipse.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Header/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/footer/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/footer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/footer/footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/main-heading/main-heading.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/mainHeading/mainHeading.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/main-heading/main-heading.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/mainHeading/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/searchBox/searchBox.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/searchBox/searchBox.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/searchBox/searchBox.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/searchBox/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/section/beautiful.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/section/beautiful.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/section/card/card.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/card/card.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/section/card/card.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/section/quiet.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/section/quiet.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/section/romantic.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/section/romantic.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/section/section.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/section/section.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/section/section.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/card/card.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/card/card.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/card/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/card/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/footer/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/footer/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/main/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/main/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/mainHeading/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/mainHeading/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/mainHeading/mainHeading.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/mainHeading/mainHeading.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/searchBox/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/searchBox/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/searchBox/searchBox.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/searchBox/searchBox.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/section/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/section/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/section/section.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/section/section.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -47,8 +34,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+            <state relative-caret-position="278">
+              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -59,8 +46,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/searchBox/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+            <state relative-caret-position="255">
+              <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -68,11 +55,34 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/searchBox/search.svg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/searchBox/searchBox.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            <state relative-caret-position="323">
+              <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/header/header.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="48" column="30" lean-forward="true" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="227">
+              <caret line="22" selection-start-line="22" selection-end-line="25" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -111,24 +121,31 @@
         <option value="$PROJECT_DIR$/src/main/section/card/card.css" />
         <option value="$PROJECT_DIR$/src/footer/footer.css" />
         <option value="$PROJECT_DIR$/src/footer/footer.js" />
-        <option value="$PROJECT_DIR$/src/style.css" />
         <option value="$PROJECT_DIR$/src/main/searchBox/searchBox.css" />
         <option value="$PROJECT_DIR$/src/main/section/card/card.js" />
         <option value="$PROJECT_DIR$/src/main/section/card-list/index.js" />
         <option value="$PROJECT_DIR$/src/main/section/section.js" />
         <option value="$PROJECT_DIR$/src/header/Header.js" />
         <option value="$PROJECT_DIR$/src/header/header.css" />
-        <option value="$PROJECT_DIR$/src/App.js" />
-        <option value="$PROJECT_DIR$/src/components/card/index.js" />
-        <option value="$PROJECT_DIR$/src/components/footer/index.js" />
-        <option value="$PROJECT_DIR$/src/components/header/index.js" />
         <option value="$PROJECT_DIR$/src/components/main-heading/index.js" />
         <option value="$PROJECT_DIR$/src/components/main/index.js" />
-        <option value="$PROJECT_DIR$/src/components/section/index.js" />
         <option value="$PROJECT_DIR$/src/components/card-list/index.js" />
         <option value="$PROJECT_DIR$/src/components/card-list/card-list.css" />
-        <option value="$PROJECT_DIR$/src/components/searchBox/index.js" />
+        <option value="$PROJECT_DIR$/src/style.css" />
+        <option value="$PROJECT_DIR$/src/components/main/main.css" />
+        <option value="$PROJECT_DIR$/src/components/mainHeading/mainHeading.css" />
+        <option value="$PROJECT_DIR$/src/components/mainHeading/index.js" />
+        <option value="$PROJECT_DIR$/src/components/card/index.js" />
+        <option value="$PROJECT_DIR$/src/components/card/card.css" />
+        <option value="$PROJECT_DIR$/src/components/footer/footer.css" />
+        <option value="$PROJECT_DIR$/src/components/footer/index.js" />
+        <option value="$PROJECT_DIR$/src/components/header/index.js" />
+        <option value="$PROJECT_DIR$/src/components/header/header.css" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/components/section/index.js" />
+        <option value="$PROJECT_DIR$/src/components/section/section.css" />
         <option value="$PROJECT_DIR$/src/components/searchBox/searchBox.css" />
+        <option value="$PROJECT_DIR$/src/components/searchBox/index.js" />
       </list>
     </option>
   </component>
@@ -144,6 +161,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -162,25 +180,10 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="airbnb-design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="airbnb-design" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="card-list" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="airbnb-design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="airbnb-design" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="searchBox" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -193,19 +196,19 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Maximka\programming\projects\airbnb-design\src\components" />
+      <recent name="C:\Users\Maximka\programming\projects\airbnb-design\src\components\card" />
+      <recent name="C:\Users\Maximka\programming\projects\airbnb-design\src\components\section" />
+      <recent name="C:\Users\Maximka\programming\projects\airbnb-design\src\main\section\card-list" />
+      <recent name="C:\Users\Maximka\programming\projects\airbnb-design\src\main\section" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Maximka\programming\projects\airbnb-design\src\components\searchBox" />
       <recent name="C:\Users\Maximka\programming\projects\airbnb-design\src\main\section\card-list" />
       <recent name="C:\Users\Maximka\programming\projects\airbnb-design\src\main\section" />
       <recent name="C:\Users\Maximka\programming\projects\airbnb-design\src\main\section\card" />
       <recent name="C:\Users\Maximka\programming\projects\airbnb-design\src" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Maximka\programming\projects\airbnb-design\src\components\section" />
-      <recent name="C:\Users\Maximka\programming\projects\airbnb-design\src\components" />
-      <recent name="C:\Users\Maximka\programming\projects\airbnb-design\src\main\section\card-list" />
-      <recent name="C:\Users\Maximka\programming\projects\airbnb-design\src\main\section" />
-      <recent name="C:\Users\Maximka\programming\projects\airbnb-design\src\footer" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -264,6 +267,9 @@
       <workItem from="1572440601363" duration="6197000" />
       <workItem from="1572501132455" duration="1473000" />
       <workItem from="1572506217921" duration="3720000" />
+      <workItem from="1572510352994" duration="800000" />
+      <workItem from="1572520838409" duration="11008000" />
+      <workItem from="1572589205797" duration="4611000" />
     </task>
     <task id="LOCAL-00001" summary="cghhgk">
       <created>1570013861214</created>
@@ -377,16 +383,23 @@
       <option name="project" value="LOCAL" />
       <updated>1572004481720</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="searchBox and card-list">
+      <created>1572510498484</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1572510498485</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="118560000" />
+    <option name="totallyTimeSpent" value="134979000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18601191" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21279761" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -398,7 +411,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49822065" weight="0.32026145" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.4992248" visible="true" weight="0.30882353" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.4992248" visible="true" weight="0.3006536" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5017794" side_tool="true" weight="0.32843137" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -484,7 +497,8 @@
     <MESSAGE value="&#10;full page second check" />
     <MESSAGE value="&#10;transition-duration: 0.3s;" />
     <MESSAGE value="className-BEM and card-proto" />
-    <option name="LAST_COMMIT_MESSAGE" value="className-BEM and card-proto" />
+    <MESSAGE value="searchBox and card-list" />
+    <option name="LAST_COMMIT_MESSAGE" value="searchBox and card-list" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/App.css" />
@@ -515,112 +529,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/header/ellipse.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/header/logo.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/header/header.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/footer/footer.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="40" column="1" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/mainHeading/mainHeading.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/card/card.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/main/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="15" selection-start-column="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/card/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/footer/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/mainHeading/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/section/section.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/header/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/main/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -642,16 +560,6 @@
     <entry file="file://$PROJECT_DIR$/src/components/section/hike.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/section/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/card-list/card-list.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -659,26 +567,130 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/card-list/index.js">
+    <entry file="file://$PROJECT_DIR$/src/components/searchBox/search.png" />
+    <entry file="file://$PROJECT_DIR$/src/components/main/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/main/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/searchBox/search.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/src/components/mainHeading/mainHeading.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/searchBox/search.svg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/src/components/card/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/card/card.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="1" lean-forward="true" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/card-list/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/footer/footer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/footer/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/header/header.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="48" column="30" lean-forward="true" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/mainHeading/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/header/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="83" lean-forward="true" selection-start-line="12" selection-start-column="83" selection-end-line="12" selection-end-column="83" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/section/section.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/section/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="61" column="42" selection-start-line="61" selection-start-column="42" selection-end-line="61" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="22" selection-start-line="22" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        <state relative-caret-position="278">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -687,18 +699,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/searchBox/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        <state relative-caret-position="255">
+          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/searchBox/search.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/searchBox/searchBox.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        <state relative-caret-position="323">
+          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
         </state>
       </provider>
     </entry>

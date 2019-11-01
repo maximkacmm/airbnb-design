@@ -4,8 +4,8 @@ import './mainHeading.css';
 
 function MainHeading () {
     return (
-        <div className="main-heading wrapper-inner">
-             <h1 className="main-heading">
+        <div className="mainHeading wrapper-inner">
+             <h1 className="mainHeading-title">
                  Book unique homes and experiences all over the world.
              </h1>
         </div>

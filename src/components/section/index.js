@@ -13,19 +13,19 @@ import hike from "./hike.png";
 const list = [
     {
         cardPicture: quiet,
-        description: "Entire apartment",
+        description: "ENTIRE APARTMENT",
         title: "Quiet apartment",
         price: "80$ per night"
     },
     {
         cardPicture: romantic,
-        description: "Entire apartment",
+        description: "ENTIRE APARTMENT",
         title: "Romantic cabin with view",
         price: "80$ per night"
     },
     {
         cardPicture: beautiful,
-        description: "Private room",
+        description: "PRIVATE ROOM",
         title: "Beautiful cozy room",
         price: "80$ per night"
     }
@@ -35,19 +35,19 @@ const list = [
 const list2 =[
     {
         cardPicture: thai,
-        description: "Cooking class",
+        description: "COOKING CLASS",
         title: "Authentic Thai Lesson",
         price: "80$ per person"
     },
     {
         cardPicture: retro,
-        description: "Photography",
+        description: "PHOTOGRAPHY",
         title: "Retro Photoshoot in NYC",
         price: "50$ per person"
     },
     {
         cardPicture: hike,
-        description: "Hiking",
+        description: "HIKING",
         title: "Sunset Hike",
         price: "30$ per person"
     }
@@ -55,11 +55,11 @@ const list2 =[
 
 const Section = () => (
     <div className="section wrapper-inner">
-        <h2 className="main__SubHeader">
+        <h2 className="section__Sub-header">
             Homes
         </h2>
         <CardList list={list}/>
-        <h2 className="main__SubHeader">
+        <h2 className="section__Sub-header">
             Experiences
         </h2>
         <CardList list={list2}/>

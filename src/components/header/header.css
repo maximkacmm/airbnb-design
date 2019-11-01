@@ -2,7 +2,7 @@
     border-bottom: var(--box-shadow);
 }
 
-.header__inner {
+.header-inner {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -13,13 +13,13 @@
     padding-right: 15px;
 }
 
-.header__logo {
+.header-inner__logo {
     display: flex;
     height: 30px;
     width: 30px;
 }
 
-.header__nav-bar {
+.header-inner__navBar {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -27,7 +27,7 @@
     font-family: var(--roboto);
 }
 
-.header__link {
+.header-inner__link {
     text-decoration: none;
     font-size: 16px;
     line-height: 19px;
@@ -36,23 +36,23 @@
     background-color: var(--white)
 }
 
-.header__link-logoUsers {
+.header-inner__link__logoUsers {
     height: 30px;
     width: 30px;
 }
 
-.header__link:hover {
+.header-inner__link:hover {
     color: var(--lightgrey);
     transition-duration: 0.3s;
 }
 
-.header__link_ellipse {
+.header-inner__link__ellipse {
     border-radius: 50%;
     width: 30px;
     height: 30px;
 }
 
-.header__link-logoUsers:hover {
+.header-inner__link__logoUsers:hover {
     transition-duration: 0.3s;
     opacity: 0.7;
 }

@@ -1,5 +1,5 @@
 .card {
-    width: 32.5%;
+    width: 31.2%;
     display: block;
 }
 
@@ -8,35 +8,47 @@
     opacity: 0.8;
 }
 
-.card__picture {
+.card-picture {
     max-width: 100%;
 }
 
-.card__text-item {
-    list-style: none;
-    font-family: var(--roboto);
-
-}
-
-.item-description {
+.card-text__description {
     font-size: 12px;
     line-height: 16px;
+    font-family: var(--roboto);
+    padding-top: 10px;
     color: var(--colorTextHeader);
 }
 
-.item-title {
+.card-text__title {
     font-size: 20px;
     line-height: 27px;
+    font-family: var(--roboto);
+    padding-top: 10px;
     color: var(--colorTextCard);
 }
 
-.item-price {
+.card-text__price {
     font-size: 16px;
     line-height: 22px;
+    font-family: var(--roboto);
+    padding-top: 10px;
     color: var(--colorTextCardPrice);
 }
 
-.card__text-item:hover {
+.card-text__description:hover {
+    transition-duration: 0.3s;
+    color: var(--colorTextCardHover);
+    cursor: pointer;
+}
+
+.card-text__title:hover {
+    transition-duration: 0.3s;
+    color: var(--colorTextCardHover);
+    cursor: pointer;
+}
+
+.card-text__price:hover {
     transition-duration: 0.3s;
     color: var(--colorTextCardHover);
     cursor: pointer;

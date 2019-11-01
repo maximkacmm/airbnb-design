@@ -4,29 +4,29 @@ import './footer.css';
 
 function Footer () {
     return (
-        <div className="footer wrapper-inner-footer">
-            <div className="footer__section">
+        <div className="footer footer-wrapper">
+            <div className="footer-section">
                 <ul>
-                    <li className="footer-item footer-span"><a href="#" className="footer-item-linc">Airbnb</a></li>
-                    <li className="footer-item"><a href="#" className="footer-item-linc">About</a></li>
-                    <li className="footer-item"><a href="#" className="footer-item-linc">Press</a></li>
-                    <li className="footer-item"><a href="#" className="footer-item-linc">Help</a></li>
+                    <li className="footer-section__title"><a href="#" className="footer-section__linc">Airbnb</a></li>
+                    <li className="footer-section__item"><a href="#" className="footer-section__linc">About</a></li>
+                    <li className="footer-section__item"><a href="#" className="footer-section__linc">Press</a></li>
+                    <li className="footer-section__item"><a href="#" className="footer-section__linc">Help</a></li>
                 </ul>
             </div>
-            <div className="footer__section">
+            <div className="footer-section">
                 <ul>
-                    <li className="footer-item footer-span"><a href="#" className="footer-item-linc">Discover</a></li>
-                    <li className="footer-item"><a href="#" className="footer-item-linc">Travel credit</a></li>
-                    <li className="footer-item"><a href="#" className="footer-item-linc">Business</a></li>
-                    <li className="footer-item"><a href="#" className="footer-item-linc">Guidebooks</a></li>
+                    <li className="footer-section__title"><a href="#" className="footer-section__linc">Discover</a></li>
+                    <li className="footer-section__item"><a href="#" className="footer-section__linc">Travel credit</a></li>
+                    <li className="footer-section__item"><a href="#" className="footer-section__linc">Business</a></li>
+                    <li className="footer-section__item"><a href="#" className="footer-section__linc">Guidebooks</a></li>
                 </ul>
             </div>
-            <div className="footer__section">
+            <div className="footer-section">
                 <ul>
-                    <li className="footer-item footer-span"><a href="#" className="footer-item-linc">Hosting</a></li>
-                    <li className="footer-item"><a href="#" className="footer-item-linc">Why host</a></li>
-                    <li className="footer-item"><a href="#" className="footer-item-linc">Hospitality</a></li>
-                    <li className="footer-item"><a href="#" className="footer-item-linc">Community</a></li>
+                    <li className="footer-section__title"><a href="#" className="footer-section__linc">Hosting</a></li>
+                    <li className="footer-section__item"><a href="#" className="footer-section__linc">Why host</a></li>
+                    <li className="footer-section__item"><a href="#" className="footer-section__linc">Hospitality</a></li>
+                    <li className="footer-section__item"><a href="#" className="footer-section__linc">Community</a></li>
                 </ul>
             </div>
         </div>

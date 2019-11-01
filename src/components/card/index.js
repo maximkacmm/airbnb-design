@@ -5,15 +5,13 @@ import './card.css';
 
 const Card = ({cardPicture, description, title, price}) => (
     <div className="card">
-        <div className="card__picture">
-            <img src={cardPicture} className="card__picture" alt="apartment"/>
+        <div className="card-picture">
+            <img src={cardPicture} className="card-picture" alt="apartment"/>
         </div>
-        <div className="card__text">
-            <ul>
-                <li className="card__text-item item-description">{description}</li>
-                <li className="card__text-item item-title">{title}</li>
-                <li className="card__text-item item-price">{price}</li>
-            </ul>
+        <div className="card-text">
+                <p className="card-text__description">{description}</p>
+                <p className="card-text__title">{title}</p>
+                <p className="card-text__price">{price}</p>
         </div>
     </div>
 );

@@ -2,7 +2,7 @@ import React from 'react';
 import '../../style.css';
 import "./main.css";
 import MainHeading from "../mainHeading";
-import SearchBox from "../../components/searchBox";
+import SearchBox from "../searchBox";
 import Section from "../../components/section";
 
 

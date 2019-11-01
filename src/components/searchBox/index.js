@@ -4,12 +4,11 @@ import './searchBox.css';
 import search from './search.svg';
 
 
-
 function SearchBox () {
     return (
-        <div className="searchBox wrapper-inner">
+        <div className="searchBox searchBox-wrapper">
             <img className="searchBox-picture" src={search} alt="search picture"/>
-            <input className="searchBox-inner" type="search" placeholder='Try "Los Angeles"'/>
+            <input className="searchBox-entryField" type="search" placeholder='Try "Los Angeles"'/>
         </div>
     );
 }
