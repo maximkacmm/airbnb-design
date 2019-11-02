@@ -2,7 +2,7 @@
     border-bottom: var(--box-shadow);
 }
 
-.header-inner {
+.header__inner {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -13,13 +13,13 @@
     padding-right: 15px;
 }
 
-.header-inner__logo {
+.header__logo {
     display: flex;
     height: 30px;
     width: 30px;
 }
 
-.header-inner__navBar {
+.header__navBar {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -27,7 +27,7 @@
     font-family: var(--roboto);
 }
 
-.header-inner__link {
+.header__link {
     text-decoration: none;
     font-size: 16px;
     line-height: 19px;
@@ -36,23 +36,23 @@
     background-color: var(--white)
 }
 
-.header-inner__link__logoUsers {
+.header__link_logoUsers {
     height: 30px;
     width: 30px;
 }
 
-.header-inner__link:hover {
+.header__link:hover {
     color: var(--lightgrey);
     transition-duration: 0.3s;
 }
 
-.header-inner__link__ellipse {
+.header__link_ellipse {
     border-radius: 50%;
     width: 30px;
     height: 30px;
 }
 
-.header-inner__link__logoUsers:hover {
+.header__link_logoUsers:hover {
     transition-duration: 0.3s;
     opacity: 0.7;
 }

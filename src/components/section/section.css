@@ -5,7 +5,7 @@
     flex-wrap: wrap;
 }
 
-.section__Sub-header {
+.section__subHeader {
     width: 100%;
     font-family: var(--roboto);
     font-size: 28px;
@@ -13,4 +13,9 @@
     color: var(--colorTextHeader);
     padding-top: 64px;
     padding-bottom: 32px;
+}
+
+.section_wrapper {
+    margin: 0 auto;
+    max-width: 946px;
 }

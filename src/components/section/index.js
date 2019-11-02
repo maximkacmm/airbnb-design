@@ -54,12 +54,12 @@ const list2 =[
 ];
 
 const Section = () => (
-    <div className="section wrapper-inner">
-        <h2 className="section__Sub-header">
+    <div className="section section_wrapper">
+        <h2 className="section__subHeader">
             Homes
         </h2>
         <CardList list={list}/>
-        <h2 className="section__Sub-header">
+        <h2 className="section__subHeader">
             Experiences
         </h2>
         <CardList list={list2}/>
